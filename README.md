@@ -1,1 +1,2 @@
-# proyectoTiendaMichelleTinocoV
+# proyectoTiendaMichelleTinoco
+proyectoTienda
